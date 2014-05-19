@@ -1,0 +1,1 @@
+<input type="text" class="form-control txt-right" value="<?=$result?>" style="width: 60px" readonly/>
